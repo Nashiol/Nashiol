@@ -31,7 +31,7 @@ Machine Learning (intermediate) · REST APIs · UI/UX
 
 ### 🐍 Snake Contribution Animation
 <p align="center">
-  <img src="https://github.com/Nashiol/Nashiol/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Nashiol/Nashiol/output/snake.svg" alt="snake animation"/>
 </p>
 
 > ⚠️ **To enable the snake animation**, you MUST set up a GitHub Action.  
