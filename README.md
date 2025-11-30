@@ -34,8 +34,7 @@ Machine Learning (intermediate) · REST APIs · UI/UX
   <img src="https://raw.githubusercontent.com/Nashiol/Nashiol/output/snake.svg" alt="snake animation"/>
 </p>
 
-> ⚠️ **To enable the snake animation**, you MUST set up a GitHub Action.  
-If you want, I can generate the action file for you.
+> ⚠️ **To enable the snake animation**, set up a GitHub Action.  
 
 ---
 
