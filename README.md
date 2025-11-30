@@ -1,28 +1,50 @@
 <h1 align="center">Hi 👋, I'm Nashiol</h1>
-<h3 align="center">Software Engineer | Django & React Developer </h3>
-
+<h3 align="center">Software Engineer | Django & React Developer</h3>
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:**  
-Python · JavaScript · Java · SQL . C# 
+Python · JavaScript · Java · SQL · C#
 
 **Frameworks & Tools:**  
-Django · React · React Native . HTML/CSS · PostgreSQL · MySQL  
-Plasmo · Bash · Figma · VS Code  
+Django · React · React Native · HTML/CSS · PostgreSQL · MySQL  
+Plasmo · Figma · VS Code . node
 
 **Currently Exploring:**  
-Machine Learning (intermediate), REST APIs, UI/UX
+Machine Learning (intermediate) · REST APIs · UI/UX
+
+---
+
+### 🔥 Contributions & Activity
+<div align="center">
+  
+<!-- Contribution Graph (Streak) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nashiol&theme=tokyonight&hide_border=true" height="180" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nashiol&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 🐍 Snake Contribution Animation
+<p align="center">
+  <img src="https://github.com/Nashiol/Nashiol/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+> ⚠️ **To enable the snake animation**, you MUST set up a GitHub Action.  
+If you want, I can generate the action file for you.
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nashiol&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nashiol&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Nashiol&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nashiol&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -30,7 +52,7 @@ Machine Learning (intermediate), REST APIs, UI/UX
 
 ### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nashiol&theme=dracula&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nashiol&theme=dracula&margin-w=15" />
 </p>
 
 ---
@@ -48,4 +70,3 @@ Machine Learning (intermediate), REST APIs, UI/UX
 ---
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nashiol.Nashiol" />
-
