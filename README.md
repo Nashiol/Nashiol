@@ -9,10 +9,7 @@ Python · JavaScript · Java · SQL · C#
 
 **Frameworks & Tools:**  
 Django · React · React Native · HTML/CSS · PostgreSQL · MySQL  
-Plasmo · Figma · VS Code . node
-
-**Currently Exploring:**  
-Machine Learning (intermediate) · REST APIs · UI/UX
+Plasmo · WXT · Claude Code . node
 
 ---
 
