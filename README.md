@@ -128,15 +128,3 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nashiol)
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### ⚡ Fun Fact
-*"Code is like humor. When you have to explain it, it's bad!"*
-
-</div>
