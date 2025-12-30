@@ -20,8 +20,7 @@ I'm a passionate software engineer specializing in building robust web applicati
 
 - 🔭 Currently working on innovative web projects with Django and React
 - 🌱 Exploring advanced React Native patterns and extension development
-- 💡 Interested in AI-assisted development and modern web technologies
-- 🎯 2025 Goals: Contribute more to open source and build impactful products
+- 💡 Interested in AI-assisted development and modern web & mobile technologies
 
 ---
 
@@ -56,12 +55,17 @@ I'm a passionate software engineer specializing in building robust web applicati
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nashiol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nashiol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  
+![Nashiol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nashiol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nashiol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nashiol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nashiol&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 </div>
 
 ---
@@ -69,7 +73,9 @@ I'm a passionate software engineer specializing in building robust web applicati
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nashiol&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=Nashiol&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)
+
 </div>
 
 ---
@@ -77,29 +83,33 @@ I'm a passionate software engineer specializing in building robust web applicati
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nashiol&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  
+[![Nashiol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nashiol&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/Nashiol)
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nashiol/Nashiol/output/snake.svg" alt="Snake animation" />
+  
+![Snake animation](https://raw.githubusercontent.com/Nashiol/Nashiol/output/snake.svg)
+
 </div>
 
-> **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repository with the GitHub Action workflow.
+> **Note:** To enable the snake animation, you need to set up a GitHub Action. Create `.github/workflows/snake.yml` in your profile repository.
 
----
+<!-- --- -->
 
-## 💼 Featured Projects
+<!-- ## 💼 Featured Projects
 
-Here are some of my notable works:
+Here are some of my notable works: -->
 
 <!-- Add your projects here
 - 🔗 **[Project Name](link)** - Brief description
 - 🔗 **[Project Name](link)** - Brief description
 -->
 
----
+<!-- --- -->
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Add your blog posts or comment this section out -->
