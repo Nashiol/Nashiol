@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nashiol
 
-### Software Engineer | Full-Stack Developer | Open Source Enthusiast
+### Software Engineer | Full-Stack Developer
 
 *Building scalable web applications with Django & React*
 
