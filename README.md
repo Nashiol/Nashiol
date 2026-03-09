@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:1a90ff&height=200&section=header&text=Nashiol&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Django+%26+React+enthusiast+%F0%9F%9B%A0%EF%B8%8F;Full-Stack+Developer;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Django+%26+React+enthusiast+%F0%9F%9B%A0%EF%B8%8F;Full-Stack+Engineer;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
