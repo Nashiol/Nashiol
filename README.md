@@ -6,6 +6,20 @@
 
 ---
 
+<div align="center">
+
+### 📬 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyirongonashiol@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nashiol)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nashiol)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](<!-- TODO: Add your portfolio URL -->)
+[![Bio](https://img.shields.io/badge/Bio-FFDD57?style=for-the-badge&logo=linktree&logoColor=black)](<!-- TODO: Add your bio/link page URL -->)
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 ```python
@@ -28,34 +42,6 @@ class Nashiol:
 
 <div align="center">
 
-### 📬 Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyirongonashiol@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nashiol)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nashiol)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](<!-- TODO: Add your portfolio URL -->)
-[![Bio](https://img.shields.io/badge/Bio-FFDD57?style=for-the-badge&logo=linktree&logoColor=black)](<!-- TODO: Add your bio/link page URL -->)
-
-</div>
-
----
-
-### 📌 Projects
-
-<div align="center">
-
-![LeetLog](https://github-readme-stats.vercel.app/api/pin/?username=Nashiol&repo=LeetLog&theme=tokyonight)
-&nbsp;&nbsp;&nbsp;
-![Interview-Coding-Questions](https://github-readme-stats.vercel.app/api/pin/?username=Nashiol&repo=Interview-Coding-Questions&theme=tokyonight)
-
-![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=Nashiol&repo=Hosipital-Management-System&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -69,9 +55,11 @@ class Nashiol:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<br/><br/>
+<br/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nashiol&show_icons=true&theme=tokyonight)](https://github.com/Nashiol)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nashiol&layout=compact&theme=tokyonight)](https://github.com/Nashiol)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
 
 </div>
