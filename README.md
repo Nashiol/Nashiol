@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 📬 Checkout my profiles
+### 📬 Check out my profiles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nashiol.netlify.app)
 [![Bio](https://img.shields.io/badge/Link%20&%20Bio-FFDD57?style=for-the-badge&logo=linktree&logoColor=black)](https://nashiolsdata.netlify.app)
