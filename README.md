@@ -1,14 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:1a90ff&height=200&section=header&text=Nashiol&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Designer&descSize=20&descAlignY=58&animation=fadeIn" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Check out my profiles
+### 📬 My Profiles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nashiol.netlify.app)
 [![Bio](https://img.shields.io/badge/Link%20&%20Bio-FFDD57?style=for-the-badge&logo=linktree&logoColor=black)](https://nashiolsdata.netlify.app)
