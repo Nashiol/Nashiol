@@ -41,6 +41,8 @@ class Nashiol:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
 <br/>
 
 [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
