@@ -1,3 +1,13 @@
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nashiol.netlify.app)
+[![Bio](https://img.shields.io/badge/Link%20&%20Bio-FFDD57?style=for-the-badge&logo=linktree&logoColor=black)](https://nashiolsdata.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyirongonashiol@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nashiol)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nashiol)
+
+</div>
+
 ```python
 class Nashiol:
     name       = "Nashiol Nyirongo"
@@ -13,19 +23,6 @@ class Nashiol:
             "💡 Integrating AI tools into modern development workflows",
         ]
 ```
-
-<div align="center">
-
-### 📬 My Profiles
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nashiol.netlify.app)
-[![Bio](https://img.shields.io/badge/Link%20&%20Bio-FFDD57?style=for-the-badge&logo=linktree&logoColor=black)](https://nashiolsdata.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyirongonashiol@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nashiol)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nashiol)
-
-</div>
-
 ---
 
 <div align="center">
