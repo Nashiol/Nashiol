@@ -13,13 +13,14 @@ class Nashiol:
     name       = "Nashiol Nyirongo"
     role       = "Software Engineer | Full-Stack Developer | System Designer"
     languages  = ["Python", "JavaScript", "Java", "C#", "SQL"]
-    frameworks = ["Django", "React", "React Native", "Node.js"]
+    frameworks = ["Django", "Spring Boot" "ASP .NET Core","React", "React Native", "NextJS"]
     interests  = ["Full-Stack Web", "Browser Extensions", "AI-assisted Dev"]
 
     def current_focus(self):
         return [
-            "🔭 Building innovative Django & React web applications",
-            "🌱 Exploring advanced React Native & extension development",
+            "🧑🏼‍💻 Backend focused Engineer.",
+            "🔭 Training AI & ML Large Language Models",
+            "🌱 Majoring into AI Engineering",
             "💡 Integrating AI tools into modern development workflows",
         ]
 ```
