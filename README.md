@@ -45,9 +45,4 @@ class Nashiol:
 
 <br/>
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nashiol&theme=tokyonight)](https://github.com/Nashiol)
-
 </div>
