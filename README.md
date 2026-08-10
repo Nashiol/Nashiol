@@ -14,7 +14,7 @@ class Nashiol:
     role       = "Software Engineer | Full-Stack Developer | System Designer"
     languages  = ["Python", "JavaScript", "Java", "C#", "SQL"]
     frameworks = ["Django", "Spring Boot" "ASP .NET Core","React", "React Native", "NextJS"]
-    interests  = ["Full-Stack Web", "Browser Extensions", "AI-assisted Dev"]
+    interests  = ["Full-Stack Development", "Browser Extensions", "AI-assisted Dev"]
 
     def current_focus(self):
         return [
